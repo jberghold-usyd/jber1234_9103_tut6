@@ -30,7 +30,7 @@ This is my first local change to the repo!
 
 ![An image of a cat](https://placekitten.com/200/300)
 
-![An image of Mona Lisa](images/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
+![An image of Mona Lisa](images/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700%20(1).jpg)
 
 This sentence is about the `draw()` function.
 
