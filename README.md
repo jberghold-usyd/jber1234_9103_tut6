@@ -29,3 +29,15 @@ This is my first local change to the repo!
 [Link Text](https://ww.google.com)
 
 ![An image of a cat](https://placekitten.com/200/300)
+
+![An image of Mona Lisa](images/Mona_Lisa_by_Leonardo_da_Vinci_500_x_700.jpg)
+
+This sentence is about the `draw()` function.
+
+```
+function setup() {
+    createCanvas(400, 400);
+}
+```
+
+> This is a quote
